@@ -26,16 +26,16 @@ function isURL(str) {
 
 module.exports = {
 	config: {
-		name: "cmd",
+		name: "science",
 		version: "1.17",
-		author: "NTKhang",
+		author: "RickyBot",
 		countDown: 5,
 		role: 2,
 		description: {
 			vi: "Quản lý các tệp lệnh của bạn",
 			en: "Manage your command files"
 		},
-		category: "owner",
+		category: "education",
 		guide: {
 			vi: "   {pn} load <tên file lệnh>"
 				+ "\n   {pn} loadAll"
